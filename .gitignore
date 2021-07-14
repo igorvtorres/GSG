@@ -1,0 +1,6 @@
+.DS_Store
+.idea/*
+mongodb/*
+raw_data/*
+teste.py
+venv/*
